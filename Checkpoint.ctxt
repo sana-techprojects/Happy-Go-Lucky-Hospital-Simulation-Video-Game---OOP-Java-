@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Checkpoint
+comment0.text=\r\n\ The\ Checkpoint\ class\ represents\ a\ checkpoint\ in\ the\ simulation.\r\n\ It\ checks\ whether\ a\ patient\ is\ present\ at\ the\ checkpoint\ or\ not.\r\n\ \r\n\ <p><b>Author\:</b></p>\r\n\ <ul>\r\n\ \ \ <li>Vincent</li>\r\n\ </ul>\r\n\ \r\n\ <p><b>Version\:</b>\ 11/30/27</p>\r\n\ \r\n\ @vincent\r\n\ @version\ 11/30/27\r\n
+comment1.params=
+comment1.target=Checkpoint()
+comment1.text=\r\n\ Initializes\ the\ Checkpoint\ with\ an\ initial\ state\ of\ being\ empty.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Checkpoint\ wants\ to\ do.\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=isEmpty
+comment3.target=void\ setEmptyStatus(boolean)
+comment3.text=\r\n\ Sets\ the\ empty\ status\ of\ the\ checkpoint.\r\n\ \r\n\ @param\ isEmpty\ The\ empty\ status\ to\ be\ set.\r\n
+comment4.params=
+comment4.target=boolean\ isEmptyStatus()
+comment4.text=\r\n\ Gets\ the\ current\ empty\ status\ of\ the\ checkpoint.\r\n\ \r\n\ @return\ True\ if\ the\ checkpoint\ is\ empty,\ false\ otherwise.\r\n
+numComments=5

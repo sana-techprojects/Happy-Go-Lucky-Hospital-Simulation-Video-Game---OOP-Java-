@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ER
+comment0.text=\r\n\ The\ ER\ class\ represents\ an\ Emergency\ Room\ checkpoint\ in\ the\ simulation.\r\n\ It\ checks\ whether\ an\ emergency\ patient\ is\ present\ at\ the\ checkpoint\ and\ whether\ the\ patient\ is\ alive.\r\n\ \r\n\ <p><b>Author\:</b></p>\r\n\ <ul>\r\n\ \ \ <li>Vincent</li>\r\n\ </ul>\r\n\ \r\n\ <p><b>Version\:</b>\ 1.2\ (11/18/2023)</p>\r\n\ \r\n\ @author\ Vincent\r\n\ @version\ 1.2\ (11/18/2023)\r\n
+comment1.params=
+comment1.target=ER()
+comment1.text=\r\n\ Constructs\ an\ ER\ checkpoint\ and\ initializes\ it\ with\ an\ empty\ status.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ ER\ wants\ to\ do.\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

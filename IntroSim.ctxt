@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=IntroSim
+comment0.text=\r\n\ The\ world\ of\ which\ the\ intro\ simulation\ takes\ place\ in.\r\n\ <p>\ Made\ By\:\ Harithan\ Raveendran\r\n\ <p>\ Adding\ of\ sounds\ and\ worked\ on\ by\:\ Sana\ Pardiwala\r\n\ <p>\ Idea\ inspiration\:\ Mr\ Cohen\r\n\ <p>\ Borrowed\ code\ from\:\ Danpost\r\n\ <p>\ Last\ Modified\:\ Nov\ 10,\ 2023\r\n
+comment1.params=
+comment1.target=IntroSim()
+comment1.text=\r\n\ The\ constructor\ that\ calls\ on\ the\ "World()"\ superclass,\ defines\ the\ objects\ of\ the\ actors,\ and\ adds\ all\ the\ objects\ into\ the\ world.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ started()
+comment4.params=
+comment4.target=void\ stopped()
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment6.params=cls\ xSize\ ySize\ x\ y
+comment6.target=void\ addTile(java.lang.Class,\ int,\ int,\ int,\ int)
+comment6.text=\r\n\ A\ method\ that\ allows\ multiple\ objects\ of\ one\ class\ to\ be\ added\ to\ the\ world\ in\ a\ row.\r\n\ @param\ Class\ is\ the\ desired\ actor\ that\ the\ user\ wishes\ to\ add\ multiple\ times.\r\n\ @param\ xSize\ sets\ the\ width\ of\ all\ the\ actors.\r\n\ @param\ ySize\ sets\ the\ height\ of\ all\ the\ actors.\r\n\ @param\ x\ sets\ the\ x\ location\ of\ the\ first\ object\ that\ is\ added\ to\ the\ world.\r\n\ @param\ y\ sets\ the\ y\ location\ of\ the\ first\ object\ that\ is\ added\ to\ the\ world.\r\n
+numComments=7

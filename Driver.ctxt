@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ A\ fast\ car\ that\ runs\ over\ nearby\ pedestrians.\r\n\ <p>\ Made\ By\:\ Harithan\ Raveendran\r\n\ <p>\ Modified\ By\:\ Sana\ Pardiwala\r\n\ <p>\ Last\ Modified\:\ Nov\ 10,\ 2023\r\n
+comment1.params=
+comment1.target=Car()
+comment1.text=\r\n\ A\ constructor\ that\ sets\ the\ speed\ of\ the\ car.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ method\ that\ allows\ all\ the\ car's\ other\ ones\ to\ activate.\r\n
+comment3.params=
+comment3.target=void\ hit()
+comment3.text=\r\n\ Allows\ the\ car\ to\ detect\ when\ it\ is\ in\ contact\ of\ a\ pedestrian.\r\n
+comment4.params=
+comment4.target=void\ drive()
+comment4.text=\r\n\ Allows\ the\ car\ to\ move\ via\ setting\ its\ location\ and\ constantly\ changing\ its\ x\ coordinate.\r\n
+comment5.params=
+comment5.target=void\ remove()
+comment5.text=\r\n\ Removes\ the\ car\ once\ its\ x\ coordinate\ is\ greater\ than\ or\ equal\ to\ 1\ 100.\r\n
+numComments=6

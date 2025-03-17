@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MinusButtonImg
+comment0.text=\r\n\ MinusButtonImg\ is\ a\ Greenfoot\ Actor\ that\ displays\ the\ minus\ button\ image.\r\n\ \r\n\ <p>This\ class\ provides\ the\ graphical\ representation\ of\ the\ minus\ button\ image.\r\n\ It\ includes\ the\ initialization\ of\ the\ image\ and\ scaling\ to\ fit\ the\ button.</p>\r\n\ \r\n\ <p>Author\:\ Sana</p>\r\n\ <p>Version\:\ November\ 9th,\ 2023\ </p>\r\n
+comment1.params=userNumber
+comment1.target=MinusButtonImg(int)
+comment1.text=\r\n\ Constructor\ for\ MinusButtonImg\ class.\r\n\ <p>This\ constructor\ initializes\ the\ minus\ button\ image\ and\ scales\ it\ to\ fit\ the\ button.</p>\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ MinusButtonImg\ class.\r\n\ <p>This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\r\n\ environment.\ It\ contains\ the\ action\ code\ for\ the\ MinusButtonImg\ class.</p>\r\n
+comment3.params=
+comment3.target=void\ affectNumberDisplay()
+numComments=4

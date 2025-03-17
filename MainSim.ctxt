@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=MainSim
+comment0.text=\r\n\ The\ MainSim\ class\ represents\ the\ main\ simulation\ world.\r\n\ It\ includes\ the\ hospital\ layout,\ doctors,\ patients,\ reputation\ bars,\ and\ other\ elements.\r\n\ \r\n\ *\ Hospital\ Simulation\ Project\:\r\n\ \r\n\ This\ simulation\ can\ act\ as\ an\ educational\ and\ entertaining\ project\r\n\ with\ the\ goal\ of\ providing\ users\ an\ opportunity\ to\ explore\ the\ complexities\ and\ challenges\r\n\ involved\ in\ managing\ a\ hospital\ environment.\ Inspired\ by\ the\ vital\ role\ of\r\n\ healthcare\ institutions,\ the\ simulation\ aims\ to\ imitate\ the\ responsibilities\ that\ are\r\n\ present\ in\ a\ hospital\ setting,\ such\ as\ patient\ influx,\ emergency\ situations.\r\n\ \r\n\ Story\ behind\ the\ Simulation\:\ \r\n\ In\ the\ heart\ of\ Healthsville,\ a\ new\ healthcare\ venture,\ Happy\ Go\ Lucky\ Hospital,\ emerges\ with\ a\ mission\ \r\n\ to\ secure\ the\ distinguished\ 'Responsible\ Hospital\ Prize.'\ The\ owners\ of\ the\ hospital\ aims\ to\ redefine\ patient\ \r\n\ care\ by\ having\ a\ seamless\ and\ welcoming\ healthcare\ experience.\ Users\ can\ adjust\ crucial\ parameters\ such\ as\ sick\ \r\n\ patient\ ratios,\ emergency\ success\ rates...\ to\ guide\ the\ hospital\ towards\ success.\ Happy\ Go\ Lucky\ Hospital\ fate\ \r\n\ is\ in\ your\ hands.\ Choose\ the\ parameters\ wisely\!\ Will\ users\ lead\ the\ hospital\ to\ triumph\ or\ face\ the\ complex\r\n\ challenges\ of\ healthcare\ management?\r\n\ \r\n\ \r\n\ Sound\ &\ Music\ Credits\:\ \r\n\ Sound\ Effect\ from\ <a\ href\="https\://pixabay.com/sound-effects/?utm_source\=link-attribution&utm_medium\=referral&utm_campaign\=music&utm_content\=16725">Pixabay</a>\ \r\n\ Sounds\ edited\ by\ Sana\ Pardiwala\ through\ Flixier\r\n\ \r\n\ Image\ Credits\:\r\n\ Main\ Sim\ Layout,\ Buttons,\ Settings\ Background,\ Title\ of\ Simulation,\ Reputation\ Bar,\ Other\ actors\ in\ the\ Main\ Sim\ Layout\ designed\ by\ Rebecca\r\n\ Other\ images\ from\ OpenGameArt.org\ and\ Google\r\n\ \r\n\ Features\:\r\n\ 1.\ Random\ event\ of\ an\ emergency\ patient\ where\ they\ can\ either\ emerge\ healthy/\ pass\ away,\ angel\ image\ hovering\ over\ emergency\ patient\r\n\ 2.\ Doctors\ called\ out\ their\ corresponding\ patient\ \r\n\ 3.\ Reputation\ Bar\ which\ deterines\ the\ well\ being\ of\ the\ hospital\r\n\ 4.\ Zoom\ in\ transition\ in\ the\ Intro\ World\r\n\ 5.\ Scrolling\ Background\ in\ the\ Intro\ World\r\n\ 6.\ In\ the\ User\ Settings\ World\ when\ you\ hover\ over\ the\ number\ display\ it\ gives\ you\ an\ idea\ what\ each\ parameter\ does\r\n\ 7.\ Edited\ sounds\ &\ music\r\n\ 8.\ Each\ Patient\ has\ their\ own\ patience\ bar\ which\ reflects\ their\ mood\ depending\ on\ long\ waits,\ delays...\r\n\ 9.\ Humor\ in\ the\ intro\ world\!\!\r\n\ 10.\ Imitates\ a\ real\ life\ hopital\ -->\ real\ life\ experience\ through\ a\ simulation\r\n\ \r\n\ Known\ Bugs\:\r\n\ -\ Sometimes\ patients\ won't\ follow\ through\ their\ actual\ pathing\ and\ coordinates\ to\ follow\r\n\ -\ Made\ a\ huge\ attempt\ to\ fix\ it\ but\ it\ kept\ getting\ bugged\r\n\ \r\n\ <p><b>Author\:</b>\ Everyone</p>\r\n\ Comments\ and\ API\ done\ by\ Sana\ Pardiwala\r\n\ \r\n\ @version\ 1.0\ (2023-11-12)\r\n
+comment1.params=userSickRatio\ userEmerPatientSuccessRate\ userNumChairs\ userNumBeds\ userPatientSpawnRate
+comment1.target=MainSim(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MainSim.\r\n\ \r\n\ @param\ userSickRatio\ The\ ratio\ of\ sick\ patients.\r\n\ @param\ userEmerPatientSuccessRate\ The\ success\ rate\ of\ emergency\ patients.\r\n\ @param\ userNumChairs\ The\ number\ of\ chairs\ in\ the\ waiting\ room.\r\n\ @param\ userNumBeds\ The\ number\ of\ beds\ in\ the\ treatment\ room.\r\n\ @param\ userPatientSpawnRate\ The\ rate\ at\ which\ patients\ are\ spawned.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ the\ MainSim\ class.\r\n\ Handles\ simulation\ logic\ and\ updates\ reputation.\r\n
+comment3.params=
+comment3.target=void\ started()
+comment3.text=\r\n\ Starts\ background\ music\ and\ sound\ effects.\r\n
+comment4.params=
+comment4.target=void\ stopped()
+comment4.text=\r\n\ Stops\ or\ pauses\ background\ music\ and\ sound\ effects.\r\n
+comment5.params=start\ path
+comment5.target=void\ redrawPath(Coordinate,\ java.util.ArrayList)
+comment5.text=\r\n\ Draw\ a\ path\ from\ start\ to\ the\ first\ coordinate\ on\ the\ path,\ and\ then\r\n\ from\ one\ coordinate\ on\ the\ path\ to\ the\ end.\r\n\ \r\n\ @param\ start\ The\ start\ Coordinate.\r\n\ @param\ path\ The\ path\ of\ Coordinates.\r\n
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment7.params=x\ y
+comment7.target=void\ addChair(int,\ int)
+comment7.text=\r\n\ Adds\ a\ chair\ to\ the\ world\ at\ the\ specified\ coordinates.\r\n\ \r\n\ @param\ x\ The\ x-coordinate.\r\n\ @param\ y\ The\ y-coordinate.\r\n
+comment8.params=bed\ x\ y
+comment8.target=void\ addBedUp(Bed_up,\ int,\ int)
+comment8.text=\r\n\ Adds\ an\ up\ bed\ to\ the\ world\ at\ the\ specified\ coordinates.\r\n\ \r\n\ @param\ bed\ The\ up\ bed\ object.\r\n\ @param\ x\ The\ x-coordinate.\r\n\ @param\ y\ The\ y-coordinate.\r\n
+comment9.params=bed\ x\ y
+comment9.target=void\ addBedDown(Bed_down,\ int,\ int)
+comment9.text=\r\n\ Adds\ a\ down\ bed\ to\ the\ world\ at\ the\ specified\ coordinates.\r\n\ \r\n\ @param\ bed\ The\ down\ bed\ object.\r\n\ @param\ x\ The\ x-coordinate.\r\n\ @param\ y\ The\ y-coordinate.\r\n
+numComments=10

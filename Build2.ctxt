@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Build2
+comment0.text=\r\n\ A\ subclass\ of\ "Prop"\ that\ has\ their\ image\ set\ to\ the\ grocery\ store\ structure.\r\n\ \r\n\ <p>\ Made\ By\:\ Harithan\ Raveendran\r\n\ <p>\ Last\ Modified\:\ Nov\ 10,\ 2023\r\n
+comment1.params=xSizer\ ySizer
+comment1.target=Build2(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

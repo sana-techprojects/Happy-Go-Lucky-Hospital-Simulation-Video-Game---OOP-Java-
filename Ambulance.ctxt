@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Ambulance
+comment0.text=\r\n\ An\ ambulance\ that\ is\ driving\ on\ the\ road.\ Upon\ coming\ across\ any\ people\ on\ the\ street,\ the\ drivers\ will\ come\ out\ to\ pick\ them\ up.\r\n\ <p>\ Made\ By\:\ Harithan\ Raveendran\r\n\ <p>\ Last\ Modified\:\ Nov\ 10,\ 2023\r\n
+comment1.params=
+comment1.target=Ambulance()
+comment1.text=\r\n\ The\ constructor\ that\ sets\ the\ values\ of\ the\ "speed",\ "spawned"\ and\ "spawned2"\ variables.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ method\ that\ keeps\ allows\ all\ the\ ambulances\ interactions\ and\ other\ code\ to\ actually\ work.\r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment4.params=
+comment4.target=void\ drive()
+comment4.text=\r\n\ The\ method\ that\ allows\ the\ ambulance\ to\ move\ via\ repeatedly\ changing\ its\ x\ position.\r\n
+comment5.params=
+comment5.target=void\ hit()
+comment5.text=\r\n\ The\ method\ that\ allows\ the\ ambulance\ to\ detect\ when\ it\ is\ touching\ a\ pedestrian.\r\n
+numComments=6

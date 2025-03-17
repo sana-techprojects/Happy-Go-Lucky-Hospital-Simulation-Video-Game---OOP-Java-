@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HospitalBuilding
+comment0.text=\r\n\ The\ HospitalBuilding\ class\ represents\ a\ hospital\ building\ in\ the\ simulation.\r\n\ It\ handles\ transitioning\ the\ hospital\ image\ which\ zooms\ in\ to\ the\ title\ of\ the\ simulation.\r\n\ \r\n\ <p><b>Author\:</b></p>\r\n\ <ul>\r\n\ \ \ <li>Sana</li>\r\n\ </ul>\r\n\ \r\n\ @author\ Sana\r\n
+comment1.params=
+comment1.target=HospitalBuilding()
+comment1.text=\r\n\ Constructs\ a\ HospitalBuilding\ object\ with\ an\ initial\ hospital\ image\ and\ starts\ the\ timer.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ HospitalBuilding\ wants\ to\ do.\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ startTransition()
+comment3.text=\r\n\ Starts\ the\ transition\ by\ setting\ the\ initial\ location\ and\ marking\ the\ timer.\r\n
+comment4.params=
+comment4.target=void\ transition()
+comment4.text=\r\n\ Manages\ the\ different\ steps\ in\ the\ transition\ process.\r\n
+numComments=5

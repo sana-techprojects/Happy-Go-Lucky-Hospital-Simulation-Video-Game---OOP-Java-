@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Chair\ here.\r\n\ \r\n\ @sana\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HealthBar()
+comment2.params=health
+comment2.target=void\ setHealth(int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ The\ method\ "updateColor()"\ constantly\ resets\ the\ health\ bar,\ changing\ its\ width\ and\ color\ after\ periods\ of\ time.\r\n
+comment4.params=
+comment4.target=void\ updateColor()
+comment5.params=
+comment5.target=void\ decrease()
+comment5.text=\r\n\ Method\ that\ decreases\ the\ width\ of\ the\ health\ bar\ as\ long\ as\ the\ variable\ "health"\ is\ greater\ than\ or\ equal\ to\ 3.\r\n
+comment6.params=
+comment6.target=int\ getH()
+comment6.text=\r\n\ Method\ used\ to\ get\ access\ to\ a\ patient's\ health\ bar's\ numerical\ value.\r\n\ @return\ health\ is\ the\ integer\ that\ determines\ the\ length\ of\ the\ bar.\ The\ higher\ the\ health\ integer\ is,\ the\ wider\ the\ bar\ becomes.\r\n
+numComments=7

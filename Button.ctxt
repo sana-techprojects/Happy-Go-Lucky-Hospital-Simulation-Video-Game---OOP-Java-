@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ The\ Button\ class\ represents\ an\ abstract\ button\ in\ the\ simulation.\r\n\ It\ serves\ as\ a\ base\ class\ for\ different\ types\ of\ buttons.\r\n\ \r\n\ <p><b>Author\:</b></p>\r\n\ <ul>\r\n\ \ \ <li>Vincent</li>\r\n\ </ul>\r\n\ \r\n\ <p><b>Version\:</b>\ 11/29/23</p>\r\n\ \r\n\ @vincent\r\n\ @version\ 11/29/23\r\n
+comment1.params=userNumber
+comment1.target=Button(int)
+comment1.text=\r\n\ Constructs\ a\ Button\ with\ a\ specified\ user\ number.\r\n\ \r\n\ @param\ userNumber\ The\ user\ number\ associated\ with\ the\ button.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Performs\ an\ action\ when\ the\ button\ is\ clicked.\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ affectNumberDisplay()
+comment3.text=\r\n\ Abstract\ method\ to\ be\ implemented\ by\ subclasses.\r\n\ Defines\ how\ the\ button\ affects\ the\ associated\ NumberDisplay.\r\n
+numComments=4

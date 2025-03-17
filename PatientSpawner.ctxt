@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PatientSpawner
+comment1.params=userSickRatio\ userSpawnFrequency\ userEmerPatientSuccessRate
+comment1.target=PatientSpawner(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ the\ PatientSpawner\ class.\r\n\ \r\n\ @param\ userSickRatio\ The\ ratio\ of\ sick\ patients\ among\ total\ patients.\r\n\ @param\ userSpawnFrequency\ The\ frequency\ at\ which\ patients\ are\ spawned.\r\n\ @param\ userEmerPatientSuccessRate\ The\ success\ rate\ for\ emergent\ patients.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ the\ PatientSpawner\ class.\r\n\ Handles\ the\ spawn\ frequency\ and\ triggers\ patient\ spawning.\r\n
+comment3.params=
+comment3.target=boolean\ detectPatient()
+comment3.text=\r\n\ Checks\ for\ the\ presence\ of\ a\ patient\ near\ the\ spawner.\r\n\ \r\n\ @return\ True\ if\ a\ patient\ is\ detected,\ false\ otherwise.\r\n\ @author\ vincent\r\n
+comment4.params=
+comment4.target=void\ spawnPatient()
+comment4.text=\r\n\ Spawns\ a\ patient\ based\ on\ random\ values\ and\ their\ respective\ types.\r\n\ @author\ vincent\r\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EndingWorld
+comment0.text=\r\n\ The\ EndingWorld\ class\ represents\ the\ world\ where\ the\ game\ ends.\r\n\ It\ displays\ the\ final\ results,\ including\ reputation\ and\ other\ concluding\ elements.\r\n\ \r\n\ <p><b>Authors\:</b></p>\r\n\ <ul>\r\n\ \ \ <li>Sana</li>\r\n\ \ \ <li>Modified\ by\:\ Vincent</li>\r\n\ </ul>\r\n\ \r\n\ <p><b>Version\:</b>\ 11/28/23</p>\r\n\ \r\n\ <p><b>How\ to\ Use\:</b></p>\r\n\ <p>\r\n\ \ \ To\ use\ this\ class,\ create\ an\ instance\ of\ EndingWorld\ with\ the\ world's\ reputation.\r\n\ \r\n\ </p>\r\n\ \r\n\ @author\ Sana\r\n\ @version\ 11/28/23\r\n\ Modified\ by\ Vincent\r\n
+comment1.params=worldReputation
+comment1.target=EndingWorld(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ EndingWorld.\r\n\ Creates\ a\ new\ world\ with\ a\ specified\ size\ and\ sets\ the\ background.\r\n\ \r\n\ @param\ worldReputation\ The\ initial\ reputation\ value\ of\ the\ world.\r\n
+comment2.params=
+comment2.target=int\ getReputation()
+comment2.text=\r\n\ Gets\ the\ current\ reputation\ value\ of\ the\ world.\r\n\ \r\n\ @return\ The\ reputation\ value.\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepares\ the\ ending\ world\ by\ adding\ necessary\ actors.\r\n
+numComments=4
