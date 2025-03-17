@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RepHealthBar
+comment0.text=\r\n\r\n\ \r\n\ @sana\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=reputation
+comment1.target=RepHealthBar(int)
+comment2.params=health
+comment2.target=void\ setHealth(int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ The\ act\ method\ updates\ the\ health\ bar\ and\ decreases\ health\ over\ time.\r\n
+comment4.params=
+comment4.target=void\ updateImage()
+comment5.params=
+comment5.target=void\ decrease()
+comment5.text=\r\n\ Method\ that\ decreases\ the\ actual\ health\ over\ time.\r\n\ The\ health\ bar\ stops\ decreasing\ when\ it\ reaches\ 55.\r\n
+comment6.params=
+comment6.target=int\ getH()
+comment6.text=\r\n\ Method\ used\ to\ get\ access\ to\ a\ patient's\ health\ bar's\ numerical\ value.\r\n\r\n\ @return\ health\ is\ the\ integer\ that\ determines\ the\ length\ of\ the\ bar.\r\n\ The\ higher\ the\ health\ integer\ is,\ the\ wider\ the\ bar\ becomes.\r\n
+numComments=7

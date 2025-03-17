@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sidewalk
+comment0.text=\r\n\ A\ subclass\ of\ "Prop"\ that\ has\ their\ image\ set\ to\ the\ sidewalk\ tile.\r\n\ <p>\ Made\ By\:\ Harithan\ Raveendran\r\n\ <p>\ Last\ Modified\:\ Nov\ 10,\ 2023\r\n
+comment1.params=xSizer\ ySizer
+comment1.target=Sidewalk(int,\ int)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Sidewalk\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

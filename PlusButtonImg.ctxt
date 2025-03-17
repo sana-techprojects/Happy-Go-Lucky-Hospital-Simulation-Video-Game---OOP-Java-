@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PlusButtonImg
+comment0.text=\r\n\ PlusButtonImg\ is\ a\ Greenfoot\ Actor\ that\ represents\ a\ button\ with\ a\ plus\ sign.\r\n\ \r\n\ <p>This\ class\ provides\ an\ interactive\ button\ that,\ when\ clicked,\r\n\ increases\ the\ numerical\ value\ displayed\ in\ the\ associated\ NumberDisplay.</p>\r\n\ \r\n\ <p>Author\:\ Sana</p>\r\n\ <p>Version\:\ November\ 9th,\ 2023</p>\r\n
+comment1.params=userNumber
+comment1.target=PlusButtonImg(int)
+comment1.text=\r\n\ Constructor\ for\ PlusButtonImg\ class.\r\n\ <p>This\ constructor\ initializes\ the\ plus\ button\ image\ and\ sets\ it\ to\ the\ actor.</p>\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Perform\ action\ when\ the\ plus\ button\ is\ clicked.\r\n\ <p>This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ is\ pressed\ in\ the\ environment.\r\n\ It\ increases\ the\ numerical\ value\ in\ the\ associated\ NumberDisplay\ when\ the\ button\ is\ clicked.</p>\r\n
+comment3.params=
+comment3.target=void\ affectNumberDisplay()
+numComments=4

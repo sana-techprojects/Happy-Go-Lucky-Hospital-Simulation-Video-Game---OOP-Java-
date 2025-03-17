@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SidewalkB
+comment0.text=\r\n\ A\ subclass\ of\ "Prop"\ that\ has\ their\ image\ set\ to\ a\ modified\ variant\ of\ the\ sidewalk\ tile.\ This\ modifed\ variant\ is\ used\ for\ activating\ special\ methods\ in\ other\ classes.\r\n\ <p>\ Made\ By\:\ Harithan\ Raveendran\r\n\ <p>\ Last\ Modified\:\ Nov\ 10,\ 2023\r\n
+comment1.params=xSizer\ ySizer
+comment1.target=SidewalkB(int,\ int)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ SidewalkB\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ changeImage()
+numComments=4

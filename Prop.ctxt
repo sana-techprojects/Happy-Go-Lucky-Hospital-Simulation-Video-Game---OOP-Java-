@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Prop
+comment0.text=\r\n\ An\ abstract\ class\ that\ contains\ all\ the\ tiles\ and\ structures\ used\ in\ the\ simulation.\r\n\ \r\n\ <p>\ Made\ By\:\ Harithan\ Raveendran\r\n\ <p>\ Borrowed\ code\ from\:\ Danpost\r\n\ <p>\ Last\ Modified\:\ Nov\ 10,\ 2023\ \r\n
+comment1.params=xSizer\ ySizer
+comment1.target=Prop(int,\ int)
+comment1.text=\r\n\ @param\ xSizer\ modifies\ the\ width\ of\ the\ object.\r\n\ @param\ ySizer\ modifies\ the\ height\ of\ the\ object.\r\n
+numComments=2

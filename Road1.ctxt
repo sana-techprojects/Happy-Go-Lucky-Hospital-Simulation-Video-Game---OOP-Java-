@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Road1
+comment0.text=\r\n\ A\ subclass\ of\ "Prop"\ that\ has\ their\ image\ set\ to\ the\ first\ road\ tile.\r\n\ \r\n\ <p>\ Made\ By\:\ Harithan\ Raveendran\r\n\ <p>\ Last\ Modified\:\ Nov\ 10,\ 2023\r\n
+comment1.params=xSizer\ ySizer
+comment1.target=Road1(int,\ int)
+numComments=2

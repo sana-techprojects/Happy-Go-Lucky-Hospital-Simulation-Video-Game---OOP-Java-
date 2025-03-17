@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StartSimButton
+comment0.text=\r\n\ A\ button\ that\ starts\ the\ simulation\ when\ clicked.\r\n\ \r\n\ @\ Sana\r\n\ @version\ November\ 9th,\ 2023\r\n
+comment1.params=
+comment1.target=StartSimButton()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StartSimButton.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ StartSimButton\ wants\ to\ do.\ \r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ getUserInfo()
+comment3.text=\r\n\ Method\ to\ get\ user\ info\r\n\ \r\n\ @author\ vincent\r\n
+comment4.params=
+comment4.target=void\ started()
+comment5.params=
+comment5.target=void\ stopped()
+numComments=6

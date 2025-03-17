@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Receptionist
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Receptionist\ here.\r\n\ \r\n\ @author\ vincent\r\n\ @version\ 1.1\ (11/12/2023)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Receptionist\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

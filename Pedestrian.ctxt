@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pedestrian
+comment0.text=\r\n\ The\ world\ of\ which\ the\ intro\ simulation\ takes\ place\ in.\r\n\ <p>\ Made\ By\:\ Harithan\ Raveendran\r\n\ <p>\ Modified\ by\ Sana\ Pardiwala\r\n\ <p>\ Borrowed\ code\ from\:\ Danpost\r\n\ <p>\ Last\ Modified\:\ Nov\ 10,\ 2023\r\n
+comment1.params=
+comment1.target=Pedestrian()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Pedestrian\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ knockDown()
+comment5.params=
+comment5.target=void\ turn()
+comment6.params=
+comment6.target=void\ moveDown()
+comment7.params=
+comment7.target=void\ moveLeft()
+comment8.params=
+comment8.target=void\ spawnCar()
+numComments=9

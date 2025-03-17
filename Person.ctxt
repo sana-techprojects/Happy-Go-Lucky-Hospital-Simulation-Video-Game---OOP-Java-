@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Person\ here.\r\n\ \r\n\ @author\ vincent\ \r\n\ @version\ 1.3\ (11/10/2023)\r\n
+comment1.params=
+comment1.target=Person()
+comment1.text=\r\n\ Constructor\ for\ the\ Person\ class\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Person\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ despawn()
+comment3.text=\r\n\ Removes\ the\ person\ from\ the\ world\ if\ it\ goes\ outside\ the\ visible\r\n\ bounderies\ of\ the\ world\ size,\ will\ allow\ for\ person\ will\ exist\ slightly\r\n\ outside\ world\ to\ prevent\ possible\ bugs\r\n
+numComments=4

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=VerticalHealthBar
+comment1.params=
+comment1.target=VerticalHealthBar()
+comment1.text=\r\n\ Constructor\ for\ the\ VerticalHealthBar\ class.\r\n\ Initializes\ the\ health\ bar\ with\ default\ values.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ for\ the\ VerticalHealthBar\ class.\r\n\ Handles\ health\ changes\ based\ on\ the\ number\ of\ patients\ and\ associated\ EmerPatient's\ status.\r\n
+comment3.params=
+comment3.target=void\ increaseHealth()
+comment3.text=\r\n\ Increases\ the\ health\ based\ on\ a\ random\ fluctuation.\r\n
+comment4.params=
+comment4.target=void\ decreaseHealth()
+comment4.text=\r\n\ Decreases\ the\ health\ based\ on\ a\ random\ fluctuation.\r\n
+comment5.params=
+comment5.target=void\ updateImage()
+comment5.text=\r\n\ Updates\ the\ health\ bar\ image\ based\ on\ the\ current\ health\ value.\r\n
+comment6.params=
+comment6.target=int\ getReputation()
+comment6.text=\r\n\ Gets\ the\ current\ reputation\ (health)\ value.\r\n\ \r\n\ @return\ The\ current\ health\ value.\r\n
+comment7.params=
+comment7.target=EmerPatient\ getAssociatedEmerPatient()
+comment7.text=\r\n\ Retrieves\ the\ EmerPatient\ associated\ with\ this\ health\ bar.\r\n\ \r\n\ @return\ The\ associated\ EmerPatient,\ or\ null\ if\ not\ found.\r\n
+numComments=8
